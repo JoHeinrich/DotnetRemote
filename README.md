@@ -1,4 +1,7 @@
 # DotnetRemote
+
+[![Join the chat at https://gitter.im/DotnetRemote/community](https://badges.gitter.im/DotnetRemote/community.svg)](https://gitter.im/DotnetRemote/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Creates interopability between different .net versions and cpu architectures
 ### Use .net core assembly in .net framework
 ### Use .net framework assembly in .net core
