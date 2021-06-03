@@ -51,5 +51,5 @@ IMath math = factory.Create<IMath>("TestNamespace.Math");
 math.OnAddition += x => Console.WriteLine(x);
 ```
 
-# Get access
+# Join the discussion
 [![Gitter](https://badges.gitter.im/DotnetRemote/community.svg)](https://gitter.im/DotnetRemote/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
