@@ -12,8 +12,8 @@ But not all libraries can easily be migrated.
 So how can we move forward while keeping compatibility?
 
 ### 32 bit to 64
-Your product is still 32 bit and running out of memory
-You want to migrate to 64 bit
+Your product is still 32 bit and running out of memory.
+You want to migrate to 64 bit.
 But there is this one library that only works with 32 bit?
 
 ## Solution
